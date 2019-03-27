@@ -7,11 +7,11 @@
 ----
 
 ## Usage
-```
-me = LINE()
-me = LINE("token")
-me = LINE("mail",password")
-```
+
+- `me = LINE()`
+- `me = LINE("token")`
+- `me = LINE("mail",password")`
+
 ----
 
 ## How it works?
