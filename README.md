@@ -7,7 +7,8 @@
 ----
 
 ## Usage
-```me = LINE()
+```
+me = LINE()
 me = LINE("token")
 me = LINE("mail",password")
 ```
