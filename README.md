@@ -16,8 +16,8 @@
 
 ## How it works?
 
-- `AutoBlock once someone add you.`
-- `AutoLeave Room.`
+- `AutoBlock once someone add you`
+- `AutoLeave Room`
 
 
 ## Special Thanks To 
