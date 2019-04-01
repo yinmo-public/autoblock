@@ -6,7 +6,6 @@ from time import sleep
 me = LINE()
 meMID = me.profile.mid
 oepoll = OEPoll(me)
-Me = [meMID,"u6949f816dddef051b5762322e5597f1e"]
 #==============================================================================#
 def logError(text):
     me.log("[ 錯誤 ] " + str(text))
