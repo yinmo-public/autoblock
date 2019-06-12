@@ -61,7 +61,6 @@ def lineBot(op):
             contact = me.getContact(op.param1)
             print ("[ 6 ] {} has been blocked ".format(contact.displayName))
         if op.type == 21 or op.type == 22 or op.type ==24:
-            print ("[ NOTIFIED LEAVE ROOM ]")
             me.leaveRoom(op.param1)
         if (op.type == 25 or op.type == 26) and op.message.contentType == 0:
             msg = op.message
