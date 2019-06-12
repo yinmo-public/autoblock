@@ -1,7 +1,6 @@
 # -*-coding: utf-8 -*-
 from linepy import *
 from datetime import datetime
-from time import sleep
 #==============================================================================#
 me = LINE()
 meMID = me.profile.mid
