@@ -27,3 +27,7 @@
 
 ## Credits to
 [@author](https://line.me/ti/p/3eamxoks_T)
+
+
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
